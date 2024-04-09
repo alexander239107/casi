@@ -1,0 +1,45 @@
+*{
+
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box ;
+}
+.contenedor-main{
+    background-color:#F16815;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenedor-img{
+width: 50%;
+height: auto;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.contenedor-img img{
+width: 100%;
+height: 100vh;
+}
+.contenedor-form{
+    background-color: rgb(145, 18, 18);
+    width: 50%;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+}
+
+
+
+
+
+
+
+
+
